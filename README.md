@@ -2,9 +2,10 @@ WLCI Regional to National Scale Exploratory Analyses and Methods
 ===============================================================================================================
 
 -----------
-Contact:
+Contacts:
 -----------
 Daniel Wieferich (dwieferich@usgs.gov)
+Steven Aulenbach (saulenbach@usgs.gov)
 
 -----------
 In Collaboration With:
